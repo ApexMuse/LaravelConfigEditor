@@ -1,0 +1,18 @@
+{
+    "name": "apexmuse/laravel-config-editor",
+    "description": "Editor for Laravel config files",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Apexmuse\\LaravelConfigEditor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ApexMuse"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
